@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 import * as XLSX from 'xlsx';
 import { GroupType, ImportItem, BasicUnitMap } from './types';
-import { processImportData } from './services/GeminiService';
+import { processImportData } from '.geminiService';
 
 // --- Sub-components ---
 
